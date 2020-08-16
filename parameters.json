@@ -1,0 +1,48 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "Redis_redis_db_name": {
+            "value": null
+        },
+        "sites_service_01_name": {
+            "value": null
+        },
+        "sites_service_02_name": {
+            "value": null
+        },
+        "sites_service_03_name": {
+            "value": null
+        },
+        "serverfarms_ASP_paid_name": {
+            "value": null
+        },
+        "components_Monitor_name": {
+            "value": null
+        },
+        "servers_vj_mysql_server_name": {
+            "value": null
+        },
+        "frontdoors_vijayafrontdoor_name": {
+            "value": null
+        },
+        "serverfarms_ASP_webAssignment_90b2_name": {
+            "value": null
+        },
+        "storageAccounts_vijayafilestorage_name": {
+            "value": null
+        },
+        "frontdoorwebapplicationfirewallpolicies_policies_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "dashboards_8b7be88d_e49c_49eb_a2d2_27f8567bc390_dashboard_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___monitor_name": {
+            "value": null
+        }
+    }
+}
